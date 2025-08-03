@@ -1,0 +1,9 @@
+ipykernel
+matplotlib
+numba
+numpy
+nvcc4jupyter
+pandas
+scikit-learn
+seaborn
+tqdm

@@ -1,4 +1,4 @@
-Project during my last year at ENSAE ParisTech (Institut Polytechnique de Paris).
+Project during my last year at ENSAE Paris (Institut Polytechnique de Paris).
 
 Based on the paper:
 
